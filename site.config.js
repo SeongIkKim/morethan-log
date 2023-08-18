@@ -48,9 +48,9 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
-      repo: "seongikkim/morethan-log",
+      repo: "seongikkim/morethan-log-comments",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
