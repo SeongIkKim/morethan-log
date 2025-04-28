@@ -20,7 +20,8 @@ const CONFIG = {
   blog: {
     title: "Journey to find flow",
     description: "Journal entries",
-    theme: "light"
+    scheme: "system",
+    theme: "dark",
   },
 
   // CONFIG configration (required)
